@@ -33,5 +33,5 @@
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Gnanashriya&theme=dark&hide_border=true" alt="Streak" />
+
 </div>
