@@ -1,9 +1,8 @@
 
-
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 <h1 align="center">Hi 👋, I'm M.Gnana Shriya</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gnanashriya&label=Profile%20views&color=0e75b6&style=flat" alt="gnanashriya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gnanashriya" alt="gnanashriya" /></a> </p>
 
